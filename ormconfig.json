@@ -1,0 +1,8 @@
+{
+  "type": "mongodb",
+  "url": "mongodb://ds261817.mlab.com:61817/posts_dev_db",
+  "username": "sandbox_user",
+  "password": "s@ndb0x_Pw!",
+  "entities": ["src/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
