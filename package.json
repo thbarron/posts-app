@@ -5,7 +5,7 @@
   "author": "Tyree Barron",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thbarron/posts-app.git"
+    "url": "git+https://github.com/thbarron/posts-app.git"
   },
   "license": "MIT",
   "scripts": {
