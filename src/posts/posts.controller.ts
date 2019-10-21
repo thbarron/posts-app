@@ -32,5 +32,4 @@ export class PostsController {
     return this.postService.delete(id);
   }
 
-
 }

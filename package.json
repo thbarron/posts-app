@@ -1,8 +1,12 @@
 {
   "name": "posts-app",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Creating a test posts application. Will include users, their posts, comments by users on posts, and authentication",
+  "author": "Tyree Barron",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thbarron/posts-app.git"
+  },
   "license": "MIT",
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig.build.json",
