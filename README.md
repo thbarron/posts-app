@@ -1,9 +1,5 @@
-<p style="text-align: center;>
+[![Build Status](https://travis-ci.com/thbarron/posts-app.svg?branch=dev)](https://travis-ci.com/thbarron/posts-app)
 
-[travis-image]: https://api.travis-ci.org/thbarron/posts-app.svg?branch=master
-[travis-url]: https://travis-ci.org/thbarron/posts-app
-
-</p>
 Test project building out a posts application backend using NestJS. Let see how far we get.
 
 ## Description
